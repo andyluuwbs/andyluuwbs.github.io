@@ -36089,7 +36089,7 @@ $S:0}
 F.D6.prototype={
 N:function(a,b){return new S.u9(new F.us(null),new F.Wt(),"Flutter Demo",X.ah9(null,C.q7),null)}}
 F.Wt.prototype={
-$1:function(a){var s,r=a.a,q=H.b(r.split("/"),t.s),p=q.pop(),o=P.eS(C.b.gF(q),null)
+$1:function(a){var s,r=a.a,q=H.b(r.split("&"),t.s),p=q.pop(),o=P.eS(C.b.gF(q),null)
 D.d9().$1(p)
 s=t.z
 switch(r){case"/":return V.abo(new F.Wr(p),null,s)
